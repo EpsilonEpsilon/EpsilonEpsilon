@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ivan and I'm a  web developer, from Ukraine</h2>
+<!-- <h2 align="left">Hi 👋! My name is Ivan and I'm a  web developer, from Ukraine</h2>
 
 ###
 <div align="left">
@@ -39,4 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-</div>
+</div> -->
